@@ -136,13 +136,7 @@
           _0x1e9ef5();
           console.log(color("[Your WHATSAPP LOGIN ✓]", "32"));
 
-          const _0x13770e = await _0x3e09d7(color("[+] ENTER YOUR APPROVAL KEY => ", "32"));
-          const isApproved = await checkApproval(_0x13770e);
-
-          if (!isApproved) {
-            console.log(color("You are not approved to use this script.", "31"));
-            process.exit(0);
-          }
+          
 
           const _0xc17546 = await _0x3e09d7(color("[1] SEND TO TARGET NUMBER\n[2] SEND To WHATSAPP GROUP\nCHOOSE OPTION => ", "36"));
 
