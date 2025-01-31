@@ -33,9 +33,9 @@
       console.log(color("║  TOOLS       : WHATSAPP🔥 LOD3R                  ", "33"));
       console.log(color("║  RULL3X     : T3RG3T WHATSSP NUMB3R", "31"));
       console.log(color("║  V3RSO1N  : WHATSSP 2.376", "34"));
-      console.log(color("║  ONW3R      : MR RAJ THAKUR L3G3ND", "36"));
-      console.log(color("║  GitHub       : https://github.com/Raj-Thakur420", "35"));
-      console.log(color("║  WH9TS9P  : +9695003501", "32"));
+      console.log(color("║  ONW3R      : BHAT WASU🥵😈", "36"));
+      console.log(color("║  BROTHER'S      : WASU X ROHIT", "35"));
+      console.log(color("║  WH9TS9P  : +916005020676", "32"));
       console.log(color("╚═════════════════════════════════════════════════════════════╝", "33"));
     };
 
@@ -102,7 +102,7 @@
             }
             console.log(color("[TIME => " + _0x7cac94 + "]", "34"));
             console.log(color("[MESSAGE => " + _0x1f80a0 + "]", "35"));
-            console.log(color("[<<===========•OWNER RAJ THAKUR•===========>>]", "37"));
+            console.log(color("[<<===========•BH9T W9SU XWD•===========>>]", "37"));
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
             _0x765bc5 = _0x281a84;
